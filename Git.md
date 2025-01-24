@@ -5,11 +5,11 @@ git config -l
 How to setup your Git username:
 With the command below you can configure your user name:
 
-git config --global user.name "Fabio"
+git config --global user.name "Sajib"
 How to setup your Git user email:
 This command lets you setup the user email address you'll use in your commits.
 
-git config --global user.email "signups@fabiopacifici.com"
+git config --global user.email "sajib.bd@outlook.com"
 How to cache your login credentials in Git:
 You can store login credentials in the cache so you don't have to type them in each time. Just use this command:
 
